@@ -50,7 +50,7 @@ async def init():
         pass
     await Rax.decorators()
     LOGGER("RAXMUSIC").info(
-        "╔═════ஜ۩۞۩ஜ════╗\n                                    ☠︎︎🅼🅰🅳🅴 🅱🆈 🆃🅴🅰🅼🆇🆃☠︎︎\n                                          ╚═════ஜ۩۞۩ஜ════╝"
+        "╔═════ஜ۩۞۩ஜ════╗\n                                    ☠︎︎🅼︎🅰︎🅳︎🅴︎ 🅱︎🆈︎ 🆂︎🅴︎🅽︎🅿︎🅰︎🅸︎☠︎︎\n                                          ╚═════ஜ۩۞۩ஜ════╝"
     )
     await idle()
     await app.stop()
